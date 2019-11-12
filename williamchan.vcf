@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Griffiths;Sophie;;;
-FN: Sophie  Griffiths 
+N:William;Chan;;;
+FN: William  Chan 
 ORG:PirataGroup;
-TITLE:Head of Guest Relations\n Guest Relations Department
-EMAIL;type=INTERNET;type=WORK;type=pref:sophie@piratagroup.hk
-TEL;type=WORK;type=VOICE:+852 6713 8813
+TITLE:Human Resources Officer\n Human Resources Department
+EMAIL;type=INTERNET;type=WORK;type=pref:william@piratagroup.hk
+TEL;type=WORK;type=VOICE:+852 9422 7488
 item1.ADR;type=WORK;type=pref:;;1/F, The Factory,\nNo. 1 Yip Fat Street, \nWong Chuk Hang;;;;Hong Kong
 item1.X-ABADR:sg
 item2.URL;type=pref:piratagroup.hk
